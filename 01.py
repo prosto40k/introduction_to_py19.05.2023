@@ -1,0 +1,1 @@
+result = m // n + int(m % n > 0)
